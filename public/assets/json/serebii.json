@@ -1,0 +1,1747 @@
+[
+  {
+    "title": "Abomasnow",
+    "value": "abomasnow",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/460.png"
+  },
+  {
+    "title": "Alomomola",
+    "value": "alomomola",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png"
+  },
+  {
+    "title": "Altaria",
+    "value": "altaria",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/334.png"
+  },
+  {
+    "title": "Amoonguss",
+    "value": "amoonguss",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/591.png"
+  },
+  {
+    "title": "Ampharos",
+    "value": "ampharos",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/181.png"
+  },
+  {
+    "title": "Annihilape",
+    "value": "annihilape",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/979.png"
+  },
+  {
+    "title": "Appletun",
+    "value": "appletun",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/842.png"
+  },
+  {
+    "title": "Applin",
+    "value": "applin",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/840.png"
+  },
+  {
+    "title": "Arboliva",
+    "value": "arboliva",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/930.png"
+  },
+  {
+    "title": "Arcanine",
+    "value": "arcanine",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png"
+  },
+  {
+    "title": "Armarouge",
+    "value": "armarouge",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/936.png"
+  },
+  {
+    "title": "Arrokuda",
+    "value": "arrokuda",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/846.png"
+  },
+  {
+    "title": "Avalugg",
+    "value": "avalugg",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/713.png"
+  },
+  {
+    "title": "Axew",
+    "value": "axew",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/610.png"
+  },
+  {
+    "title": "Azumarill",
+    "value": "azumarill",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/184.png"
+  },
+  {
+    "title": "Azurill",
+    "value": "azurill",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/298.png"
+  },
+  {
+    "title": "Bagon",
+    "value": "bagon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/371.png"
+  },
+  {
+    "title": "Banette",
+    "value": "banette",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/354.png"
+  },
+  {
+    "title": "Barboach",
+    "value": "barboach",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/339.png"
+  },
+  {
+    "title": "Barraskewda",
+    "value": "barraskewda",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/847.png"
+  },
+  {
+    "title": "Baxcalibur",
+    "value": "baxcalibur",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/998.png"
+  },
+  {
+    "title": "Beartic",
+    "value": "beartic",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/614.png"
+  },
+  {
+    "title": "Bellibolt",
+    "value": "bellibolt",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/939.png"
+  },
+  {
+    "title": "Bergmite",
+    "value": "bergmite",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/712.png"
+  },
+  {
+    "title": "Bisharp",
+    "value": "bisharp",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/625.png"
+  },
+  {
+    "title": "Blissey",
+    "value": "blissey",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/242.png"
+  },
+  {
+    "title": "Bombirdier",
+    "value": "bombirdier",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/962.png"
+  },
+  {
+    "title": "Bonsly",
+    "value": "bonsly",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/438.png"
+  },
+  {
+    "title": "Bounsweet",
+    "value": "bounsweet",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/761.png"
+  },
+  {
+    "title": "Brambleghast",
+    "value": "brambleghast",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/947.png"
+  },
+  {
+    "title": "Bramblin",
+    "value": "bramblin",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/946.png"
+  },
+  {
+    "title": "Braviary",
+    "value": "braviary",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/628.png"
+  },
+  {
+    "title": "Breloom",
+    "value": "breloom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/286.png"
+  },
+  {
+    "title": "Bronzong",
+    "value": "bronzong",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/437.png"
+  },
+  {
+    "title": "Bronzor",
+    "value": "bronzor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/436.png"
+  },
+  {
+    "title": "Bruxish",
+    "value": "bruxish",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/779.png"
+  },
+  {
+    "title": "Buizel",
+    "value": "buizel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/418.png"
+  },
+  {
+    "title": "Cacnea",
+    "value": "cacnea",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/331.png"
+  },
+  {
+    "title": "Cacturne",
+    "value": "cacturne",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/332.png"
+  },
+  {
+    "title": "Camerupt",
+    "value": "camerupt",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/323.png"
+  },
+  {
+    "title": "Capsakid",
+    "value": "capsakid",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/951.png"
+  },
+  {
+    "title": "Carkol",
+    "value": "carkol",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/838.png"
+  },
+  {
+    "title": "Ceruledge",
+    "value": "ceruledge",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/937.png"
+  },
+  {
+    "title": "Cetitan",
+    "value": "cetitan",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/975.png"
+  },
+  {
+    "title": "Cetoddle",
+    "value": "cetoddle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/974.png"
+  },
+  {
+    "title": "Chansey",
+    "value": "chansey",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png"
+  },
+  {
+    "title": "Charcadet",
+    "value": "charcadet",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/935.png"
+  },
+  {
+    "title": "Chewtle",
+    "value": "chewtle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/833.png"
+  },
+  {
+    "title": "Clauncher",
+    "value": "clauncher",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/692.png"
+  },
+  {
+    "title": "Clawitzer",
+    "value": "clawitzer",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/693.png"
+  },
+  {
+    "title": "Clodsire",
+    "value": "clodsire",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/980.png"
+  },
+  {
+    "title": "Cloyster",
+    "value": "cloyster",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/91.png"
+  },
+  {
+    "title": "Coalossal",
+    "value": "coalossal",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/839.png"
+  },
+  {
+    "title": "Combee",
+    "value": "combee",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/415.png"
+  },
+  {
+    "title": "Copperajah",
+    "value": "copperajah",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/879.png"
+  },
+  {
+    "title": "Corviknight",
+    "value": "corviknight",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png"
+  },
+  {
+    "title": "Corvisquire",
+    "value": "corvisquire",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/822.png"
+  },
+  {
+    "title": "Crabominable",
+    "value": "crabominable",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/740.png"
+  },
+  {
+    "title": "Crabrawler",
+    "value": "crabrawler",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/739.png"
+  },
+  {
+    "title": "Croagunk",
+    "value": "croagunk",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/453.png"
+  },
+  {
+    "title": "Cryogonal",
+    "value": "cryogonal",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/615.png"
+  },
+  {
+    "title": "Cubchoo",
+    "value": "cubchoo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/613.png"
+  },
+  {
+    "title": "Cufant",
+    "value": "cufant",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/878.png"
+  },
+  {
+    "title": "Cyclizar",
+    "value": "cyclizar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/967.png"
+  },
+  {
+    "title": "Dachsbun",
+    "value": "dachsbun",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/927.png"
+  },
+  {
+    "title": "Dedenne",
+    "value": "dedenne",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/702.png"
+  },
+  {
+    "title": "Deerling",
+    "value": "deerling",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/585.png"
+  },
+  {
+    "title": "Deino",
+    "value": "deino",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/633.png"
+  },
+  {
+    "title": "Delibird",
+    "value": "delibird",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/225.png"
+  },
+  {
+    "title": "Diglett",
+    "value": "diglett",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/50.png"
+  },
+  {
+    "title": "Ditto",
+    "value": "ditto",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png"
+  },
+  {
+    "title": "Dolliv",
+    "value": "dolliv",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/929.png"
+  },
+  {
+    "title": "Dondozo",
+    "value": "dondozo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/977.png"
+  },
+  {
+    "title": "Donphan",
+    "value": "donphan",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/232.png"
+  },
+  {
+    "title": "Dragalge",
+    "value": "dragalge",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/691.png"
+  },
+  {
+    "title": "Dragapult",
+    "value": "dragapult",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/887.png"
+  },
+  {
+    "title": "Dragonair",
+    "value": "dragonair",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/148.png"
+  },
+  {
+    "title": "Dragonite",
+    "value": "dragonite",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png"
+  },
+  {
+    "title": "Drakloak",
+    "value": "drakloak",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/886.png"
+  },
+  {
+    "title": "Dratini",
+    "value": "dratini",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/147.png"
+  },
+  {
+    "title": "Drednaw",
+    "value": "drednaw",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/834.png"
+  },
+  {
+    "title": "Dreepy",
+    "value": "dreepy",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/885.png"
+  },
+  {
+    "title": "Drifblim",
+    "value": "drifblim",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/426.png"
+  },
+  {
+    "title": "Drifloon",
+    "value": "drifloon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/425.png"
+  },
+  {
+    "title": "Drowzee",
+    "value": "drowzee",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png"
+  },
+  {
+    "title": "Dudunsparce",
+    "value": "dudunsparce",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/982.png"
+  },
+  {
+    "title": "Dugtrio",
+    "value": "dugtrio",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png"
+  },
+  {
+    "title": "Dunsparce",
+    "value": "dunsparce",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/206.png"
+  },
+  {
+    "title": "Eelektrik",
+    "value": "eelektrik",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/603.png"
+  },
+  {
+    "title": "Eelektross",
+    "value": "eelektross",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/604.png"
+  },
+  {
+    "title": "Eevee",
+    "value": "eevee",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png"
+  },
+  {
+    "title": "Electrode",
+    "value": "electrode",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/101.png"
+  },
+  {
+    "title": "Espathra",
+    "value": "espathra",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/956.png"
+  },
+  {
+    "title": "Espeon",
+    "value": "espeon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png"
+  },
+  {
+    "title": "Falinks",
+    "value": "falinks",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/870.png"
+  },
+  {
+    "title": "Farigiraf",
+    "value": "farigiraf",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/981.png"
+  },
+  {
+    "title": "Fidough",
+    "value": "fidough",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/926.png"
+  },
+  {
+    "title": "Finizen",
+    "value": "finizen",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/963.png"
+  },
+  {
+    "title": "Finneon",
+    "value": "finneon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/456.png"
+  },
+  {
+    "title": "Flaaffy",
+    "value": "flaaffy",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/180.png"
+  },
+  {
+    "title": "Flamigo",
+    "value": "flamigo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/973.png"
+  },
+  {
+    "title": "Flapple",
+    "value": "flapple",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/841.png"
+  },
+  {
+    "title": "Flareon",
+    "value": "flareon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png"
+  },
+  {
+    "title": "Fletchinder",
+    "value": "fletchinder",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/662.png"
+  },
+  {
+    "title": "Fletchling",
+    "value": "fletchling",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/661.png"
+  },
+  {
+    "title": "Flittle",
+    "value": "flittle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/955.png"
+  },
+  {
+    "title": "Floatzel",
+    "value": "floatzel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/419.png"
+  },
+  {
+    "title": "Florges",
+    "value": "florges",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/671.png"
+  },
+  {
+    "title": "Fomantis",
+    "value": "fomantis",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/753.png"
+  },
+  {
+    "title": "Foongus",
+    "value": "foongus",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/590.png"
+  },
+  {
+    "title": "Forretress",
+    "value": "forretress",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/205.png"
+  },
+  {
+    "title": "Fraxure",
+    "value": "fraxure",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/611.png"
+  },
+  {
+    "title": "Frigibax",
+    "value": "frigibax",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/996.png"
+  },
+  {
+    "title": "Froslass",
+    "value": "froslass",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/478.png"
+  },
+  {
+    "title": "Frosmoth",
+    "value": "frosmoth",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/873.png"
+  },
+  {
+    "title": "Gabite",
+    "value": "gabite",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/444.png"
+  },
+  {
+    "title": "Gallade",
+    "value": "gallade",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/475.png"
+  },
+  {
+    "title": "Garchomp",
+    "value": "garchomp",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/445.png"
+  },
+  {
+    "title": "Gardevoir",
+    "value": "gardevoir",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/282.png"
+  },
+  {
+    "title": "Garganacl",
+    "value": "garganacl",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/934.png"
+  },
+  {
+    "title": "Gastly",
+    "value": "gastly",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png"
+  },
+  {
+    "title": "Gastrodon",
+    "value": "gastrodon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/423.png"
+  },
+  {
+    "title": "Gengar",
+    "value": "gengar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png"
+  },
+  {
+    "title": "Gible",
+    "value": "gible",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/443.png"
+  },
+  {
+    "title": "Girafarig",
+    "value": "girafarig",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/203.png"
+  },
+  {
+    "title": "Glaceon",
+    "value": "glaceon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/471.png"
+  },
+  {
+    "title": "Glalie",
+    "value": "glalie",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/362.png"
+  },
+  {
+    "title": "Glimmet",
+    "value": "glimmet",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/969.png"
+  },
+  {
+    "title": "Glimmora",
+    "value": "glimmora",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/970.png"
+  },
+  {
+    "title": "Gogoat",
+    "value": "gogoat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/673.png"
+  },
+  {
+    "title": "Golduck",
+    "value": "golduck",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/55.png"
+  },
+  {
+    "title": "Goodra",
+    "value": "goodra",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png"
+  },
+  {
+    "title": "Goomy",
+    "value": "goomy",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/704.png"
+  },
+  {
+    "title": "Gothita",
+    "value": "gothita",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/574.png"
+  },
+  {
+    "title": "Gothitelle",
+    "value": "gothitelle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/576.png"
+  },
+  {
+    "title": "Gothorita",
+    "value": "gothorita",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/575.png"
+  },
+  {
+    "title": "Grafaiai",
+    "value": "grafaiai",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/945.png"
+  },
+  {
+    "title": "Greavard",
+    "value": "greavard",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/971.png"
+  },
+  {
+    "title": "Greedent",
+    "value": "greedent",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/820.png"
+  },
+  {
+    "title": "Grimer",
+    "value": "grimer",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/88.png"
+  },
+  {
+    "title": "Grimmsnarl",
+    "value": "grimmsnarl",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/861.png"
+  },
+  {
+    "title": "Growlithe",
+    "value": "growlithe",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/58.png"
+  },
+  {
+    "title": "Grumpig",
+    "value": "grumpig",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/326.png"
+  },
+  {
+    "title": "Gulpin",
+    "value": "gulpin",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/316.png"
+  },
+  {
+    "title": "Gumshoos",
+    "value": "gumshoos",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/735.png"
+  },
+  {
+    "title": "Gyarados",
+    "value": "gyarados",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png"
+  },
+  {
+    "title": "Hariyama",
+    "value": "hariyama",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/297.png"
+  },
+  {
+    "title": "Hatenna",
+    "value": "hatenna",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/856.png"
+  },
+  {
+    "title": "Hatterene",
+    "value": "hatterene",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/858.png"
+  },
+  {
+    "title": "Hattrem",
+    "value": "hattrem",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/857.png"
+  },
+  {
+    "title": "Haunter",
+    "value": "haunter",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/93.png"
+  },
+  {
+    "title": "Hawlucha",
+    "value": "hawlucha",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/701.png"
+  },
+  {
+    "title": "Haxorus",
+    "value": "haxorus",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/612.png"
+  },
+  {
+    "title": "Heracross",
+    "value": "heracross",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/214.png"
+  },
+  {
+    "title": "Hippopotas",
+    "value": "hippopotas",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/449.png"
+  },
+  {
+    "title": "Hippowdon",
+    "value": "hippowdon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/450.png"
+  },
+  {
+    "title": "Honchkrow",
+    "value": "honchkrow",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/430.png"
+  },
+  {
+    "title": "Hoppip",
+    "value": "hoppip",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/187.png"
+  },
+  {
+    "title": "Houndoom",
+    "value": "houndoom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/229.png"
+  },
+  {
+    "title": "Houndour",
+    "value": "houndour",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/228.png"
+  },
+  {
+    "title": "Houndstone",
+    "value": "houndstone",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/972.png"
+  },
+  {
+    "title": "Hydreigon",
+    "value": "hydreigon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/635.png"
+  },
+  {
+    "title": "Hypno",
+    "value": "hypno",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/97.png"
+  },
+  {
+    "title": "Igglybuff",
+    "value": "igglybuff",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/174.png"
+  },
+  {
+    "title": "Impidimp",
+    "value": "impidimp",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/859.png"
+  },
+  {
+    "title": "Jigglypuff",
+    "value": "jigglypuff",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png"
+  },
+  {
+    "title": "Jolteon",
+    "value": "jolteon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png"
+  },
+  {
+    "title": "Kilowattrel",
+    "value": "kilowattrel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/941.png"
+  },
+  {
+    "title": "Kingambit",
+    "value": "kingambit",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/983.png"
+  },
+  {
+    "title": "Kirlia",
+    "value": "kirlia",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/281.png"
+  },
+  {
+    "title": "Klawf",
+    "value": "klawf",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/950.png"
+  },
+  {
+    "title": "Komala",
+    "value": "komala",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/775.png"
+  },
+  {
+    "title": "Kricketot",
+    "value": "kricketot",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/401.png"
+  },
+  {
+    "title": "Kricketune",
+    "value": "kricketune",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/402.png"
+  },
+  {
+    "title": "Krokorok",
+    "value": "krokorok",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/552.png"
+  },
+  {
+    "title": "Krookodile",
+    "value": "krookodile",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/553.png"
+  },
+  {
+    "title": "Larvesta",
+    "value": "larvesta",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png"
+  },
+  {
+    "title": "Larvitar",
+    "value": "larvitar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png"
+  },
+  {
+    "title": "Leafeon",
+    "value": "leafeon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/470.png"
+  },
+  {
+    "title": "Lechonk",
+    "value": "lechonk",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/915.png"
+  },
+  {
+    "title": "Lilligant",
+    "value": "lilligant",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/549.png"
+  },
+  {
+    "title": "Litleo",
+    "value": "litleo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/667.png"
+  },
+  {
+    "title": "Lokix",
+    "value": "lokix",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/920.png"
+  },
+  {
+    "title": "Lumineon",
+    "value": "lumineon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/457.png"
+  },
+  {
+    "title": "Lurantis",
+    "value": "lurantis",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/754.png"
+  },
+  {
+    "title": "Luvdisc",
+    "value": "luvdisc",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/370.png"
+  },
+  {
+    "title": "Luxio",
+    "value": "luxio",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/404.png"
+  },
+  {
+    "title": "Luxray",
+    "value": "luxray",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/405.png"
+  },
+  {
+    "title": "Mabosstiff",
+    "value": "mabosstiff",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/943.png"
+  },
+  {
+    "title": "Magikarp",
+    "value": "magikarp",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png"
+  },
+  {
+    "title": "Magnemite",
+    "value": "magnemite",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png"
+  },
+  {
+    "title": "Magneton",
+    "value": "magneton",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/82.png"
+  },
+  {
+    "title": "Magnezone",
+    "value": "magnezone",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/462.png"
+  },
+  {
+    "title": "Makuhita",
+    "value": "makuhita",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/296.png"
+  },
+  {
+    "title": "Mankey",
+    "value": "mankey",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/56.png"
+  },
+  {
+    "title": "Mareanie",
+    "value": "mareanie",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/747.png"
+  },
+  {
+    "title": "Mareep",
+    "value": "mareep",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/179.png"
+  },
+  {
+    "title": "Marill",
+    "value": "marill",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/183.png"
+  },
+  {
+    "title": "Maschiff",
+    "value": "maschiff",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/942.png"
+  },
+  {
+    "title": "Masquerain",
+    "value": "masquerain",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/284.png"
+  },
+  {
+    "title": "Maushold",
+    "value": "maushold",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/925.png"
+  },
+  {
+    "title": "Medicham",
+    "value": "medicham",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/308.png"
+  },
+  {
+    "title": "Meditite",
+    "value": "meditite",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/307.png"
+  },
+  {
+    "title": "Meowth",
+    "value": "meowth",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png"
+  },
+  {
+    "title": "Misdreavus",
+    "value": "misdreavus",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/200.png"
+  },
+  {
+    "title": "Mismagius",
+    "value": "mismagius",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/429.png"
+  },
+  {
+    "title": "Morgrem",
+    "value": "morgrem",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/860.png"
+  },
+  {
+    "title": "Mudbray",
+    "value": "mudbray",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/749.png"
+  },
+  {
+    "title": "Mudsdale",
+    "value": "mudsdale",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/750.png"
+  },
+  {
+    "title": "Muk",
+    "value": "muk",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/89.png"
+  },
+  {
+    "title": "Murkrow",
+    "value": "murkrow",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/198.png"
+  },
+  {
+    "title": "Nacli",
+    "value": "nacli",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/932.png"
+  },
+  {
+    "title": "Naclstack",
+    "value": "naclstack",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/933.png"
+  },
+  {
+    "title": "Noibat",
+    "value": "noibat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/714.png"
+  },
+  {
+    "title": "Noivern",
+    "value": "noivern",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/715.png"
+  },
+  {
+    "title": "Numel",
+    "value": "numel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/322.png"
+  },
+  {
+    "title": "Nymble",
+    "value": "nymble",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/919.png"
+  },
+  {
+    "title": "Oinkologne",
+    "value": "oinkologne",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/916.png"
+  },
+  {
+    "title": "Oranguru",
+    "value": "oranguru",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/765.png"
+  },
+  {
+    "title": "Orthworm",
+    "value": "orthworm",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/968.png"
+  },
+  {
+    "title": "Pachirisu",
+    "value": "pachirisu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/417.png"
+  },
+  {
+    "title": "Palafin",
+    "value": "palafin",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/964.png"
+  },
+  {
+    "title": "Passimian",
+    "value": "passimian",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/766.png"
+  },
+  {
+    "title": "Pawmi",
+    "value": "pawmi",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/921.png"
+  },
+  {
+    "title": "Pawmo",
+    "value": "pawmo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/922.png"
+  },
+  {
+    "title": "Pawmot",
+    "value": "pawmot",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/923.png"
+  },
+  {
+    "title": "Pawniard",
+    "value": "pawniard",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/624.png"
+  },
+  {
+    "title": "Pelipper",
+    "value": "pelipper",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/279.png"
+  },
+  {
+    "title": "Persian",
+    "value": "persian",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.png"
+  },
+  {
+    "title": "Petilil",
+    "value": "petilil",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/548.png"
+  },
+  {
+    "title": "Phanpy",
+    "value": "phanpy",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/231.png"
+  },
+  {
+    "title": "Pichu",
+    "value": "pichu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/172.png"
+  },
+  {
+    "title": "Pikachu",
+    "value": "pikachu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png"
+  },
+  {
+    "title": "Pincurchin",
+    "value": "pincurchin",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/871.png"
+  },
+  {
+    "title": "Pineco",
+    "value": "pineco",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/204.png"
+  },
+  {
+    "title": "Polteageist",
+    "value": "polteageist",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/855.png"
+  },
+  {
+    "title": "Primeape",
+    "value": "primeape",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png"
+  },
+  {
+    "title": "Psyduck",
+    "value": "psyduck",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png"
+  },
+  {
+    "title": "Pupitar",
+    "value": "pupitar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/247.png"
+  },
+  {
+    "title": "Pyroar",
+    "value": "pyroar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/668.png"
+  },
+  {
+    "title": "Qwilfish",
+    "value": "qwilfish",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/211.png"
+  },
+  {
+    "title": "Rabsca",
+    "value": "rabsca",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/954.png"
+  },
+  {
+    "title": "Raichu",
+    "value": "raichu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/26.png"
+  },
+  {
+    "title": "Ralts",
+    "value": "ralts",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/280.png"
+  },
+  {
+    "title": "Rellor",
+    "value": "rellor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/953.png"
+  },
+  {
+    "title": "Revavroom",
+    "value": "revavroom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/966.png"
+  },
+  {
+    "title": "Riolu",
+    "value": "riolu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/447.png"
+  },
+  {
+    "title": "Rockruff",
+    "value": "rockruff",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/744.png"
+  },
+  {
+    "title": "Rolycoly",
+    "value": "rolycoly",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/837.png"
+  },
+  {
+    "title": "Rookidee",
+    "value": "rookidee",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/821.png"
+  },
+  {
+    "title": "Rotom",
+    "value": "rotom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/479.png"
+  },
+  {
+    "title": "Rufflet",
+    "value": "rufflet",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/627.png"
+  },
+  {
+    "title": "Sableye",
+    "value": "sableye",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/302.png"
+  },
+  {
+    "title": "Salamence",
+    "value": "salamence",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/373.png"
+  },
+  {
+    "title": "Salandit",
+    "value": "salandit",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/757.png"
+  },
+  {
+    "title": "Sandaconda",
+    "value": "sandaconda",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/844.png"
+  },
+  {
+    "title": "Sandile",
+    "value": "sandile",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/551.png"
+  },
+  {
+    "title": "Sandygast",
+    "value": "sandygast",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/769.png"
+  },
+  {
+    "title": "Sawsbuck",
+    "value": "sawsbuck",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/586.png"
+  },
+  {
+    "title": "Scizor",
+    "value": "scizor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/212.png"
+  },
+  {
+    "title": "Scovillain",
+    "value": "scovillain",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/952.png"
+  },
+  {
+    "title": "Scyther",
+    "value": "scyther",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png"
+  },
+  {
+    "title": "Seviper",
+    "value": "seviper",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/336.png"
+  },
+  {
+    "title": "Shelgon",
+    "value": "shelgon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/372.png"
+  },
+  {
+    "title": "Shellder",
+    "value": "shellder",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/90.png"
+  },
+  {
+    "title": "Shellos",
+    "value": "shellos",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/422.png"
+  },
+  {
+    "title": "Shinx",
+    "value": "shinx",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/403.png"
+  },
+  {
+    "title": "Shroodle",
+    "value": "shroodle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/944.png"
+  },
+  {
+    "title": "Shroomish",
+    "value": "shroomish",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/285.png"
+  },
+  {
+    "title": "Shuppet",
+    "value": "shuppet",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/353.png"
+  },
+  {
+    "title": "Silicobra",
+    "value": "silicobra",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/843.png"
+  },
+  {
+    "title": "Sinistea",
+    "value": "sinistea",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/854.png"
+  },
+  {
+    "title": "Skiddo",
+    "value": "skiddo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/672.png"
+  },
+  {
+    "title": "Skiploom",
+    "value": "skiploom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/188.png"
+  },
+  {
+    "title": "Skrelp",
+    "value": "skrelp",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/690.png"
+  },
+  {
+    "title": "Skuntank",
+    "value": "skuntank",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/435.png"
+  },
+  {
+    "title": "Skwovet",
+    "value": "skwovet",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/819.png"
+  },
+  {
+    "title": "Slaking",
+    "value": "slaking",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/289.png"
+  },
+  {
+    "title": "Slakoth",
+    "value": "slakoth",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/287.png"
+  },
+  {
+    "title": "Sliggoo",
+    "value": "sliggoo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/705.png"
+  },
+  {
+    "title": "Slowbro",
+    "value": "slowbro",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/80.png"
+  },
+  {
+    "title": "Slowking",
+    "value": "slowking",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/199.png"
+  },
+  {
+    "title": "Slowpoke",
+    "value": "slowpoke",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png"
+  },
+  {
+    "title": "Smoliv",
+    "value": "smoliv",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/928.png"
+  },
+  {
+    "title": "Sneasel",
+    "value": "sneasel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/215.png"
+  },
+  {
+    "title": "Snom",
+    "value": "snom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/872.png"
+  },
+  {
+    "title": "Snorunt",
+    "value": "snorunt",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/361.png"
+  },
+  {
+    "title": "Snover",
+    "value": "snover",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/459.png"
+  },
+  {
+    "title": "Spidops",
+    "value": "spidops",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png"
+  },
+  {
+    "title": "Spoink",
+    "value": "spoink",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/325.png"
+  },
+  {
+    "title": "Squawkabilly",
+    "value": "squawkabilly",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/931.png"
+  },
+  {
+    "title": "Stantler",
+    "value": "stantler",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/234.png"
+  },
+  {
+    "title": "Staraptor",
+    "value": "staraptor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/398.png"
+  },
+  {
+    "title": "Staravia",
+    "value": "staravia",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/397.png"
+  },
+  {
+    "title": "Starly",
+    "value": "starly",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/396.png"
+  },
+  {
+    "title": "Steenee",
+    "value": "steenee",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/762.png"
+  },
+  {
+    "title": "Stonjourner",
+    "value": "stonjourner",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/874.png"
+  },
+  {
+    "title": "Stunky",
+    "value": "stunky",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/434.png"
+  },
+  {
+    "title": "Sudowoodo",
+    "value": "sudowoodo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/185.png"
+  },
+  {
+    "title": "Sunflora",
+    "value": "sunflora",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/192.png"
+  },
+  {
+    "title": "Sunkern",
+    "value": "sunkern",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/191.png"
+  },
+  {
+    "title": "Surskit",
+    "value": "surskit",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/283.png"
+  },
+  {
+    "title": "Swablu",
+    "value": "swablu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/333.png"
+  },
+  {
+    "title": "Swalot",
+    "value": "swalot",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/317.png"
+  },
+  {
+    "title": "Sylveon",
+    "value": "sylveon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/700.png"
+  },
+  {
+    "title": "Tadbulb",
+    "value": "tadbulb",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/938.png"
+  },
+  {
+    "title": "Talonflame",
+    "value": "talonflame",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/663.png"
+  },
+  {
+    "title": "Tandemaus",
+    "value": "tandemaus",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/924.png"
+  },
+  {
+    "title": "Tarountula",
+    "value": "tarountula",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/917.png"
+  },
+  {
+    "title": "Tatsugiri",
+    "value": "tatsugiri",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/978.png"
+  },
+  {
+    "title": "Tauros",
+    "value": "tauros",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/128.png"
+  },
+  {
+    "title": "Teddiursa",
+    "value": "teddiursa",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/216.png"
+  },
+  {
+    "title": "Tinkatink",
+    "value": "tinkatink",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/957.png"
+  },
+  {
+    "title": "Tinkaton",
+    "value": "tinkaton",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/959.png"
+  },
+  {
+    "title": "Tinkatuff",
+    "value": "tinkatuff",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/958.png"
+  },
+  {
+    "title": "Toedscool",
+    "value": "toedscool",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/948.png"
+  },
+  {
+    "title": "Toedscruel",
+    "value": "toedscruel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/949.png"
+  },
+  {
+    "title": "Torkoal",
+    "value": "torkoal",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/324.png"
+  },
+  {
+    "title": "Toxapex",
+    "value": "toxapex",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/748.png"
+  },
+  {
+    "title": "Toxel",
+    "value": "toxel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/848.png"
+  },
+  {
+    "title": "Toxicroak",
+    "value": "toxicroak",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/454.png"
+  },
+  {
+    "title": "Tropius",
+    "value": "tropius",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/357.png"
+  },
+  {
+    "title": "Tsareena",
+    "value": "tsareena",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/763.png"
+  },
+  {
+    "title": "Tynamo",
+    "value": "tynamo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/602.png"
+  },
+  {
+    "title": "Tyranitar",
+    "value": "tyranitar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/248.png"
+  },
+  {
+    "title": "Umbreon",
+    "value": "umbreon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png"
+  },
+  {
+    "title": "Ursaring",
+    "value": "ursaring",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/217.png"
+  },
+  {
+    "title": "Vaporeon",
+    "value": "vaporeon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png"
+  },
+  {
+    "title": "Varoom",
+    "value": "varoom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/965.png"
+  },
+  {
+    "title": "Veluza",
+    "value": "veluza",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/976.png"
+  },
+  {
+    "title": "Venomoth",
+    "value": "venomoth",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/49.png"
+  },
+  {
+    "title": "Venonat",
+    "value": "venonat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png"
+  },
+  {
+    "title": "Vespiquen",
+    "value": "vespiquen",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/416.png"
+  },
+  {
+    "title": "Vigoroth",
+    "value": "vigoroth",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/288.png"
+  },
+  {
+    "title": "Volcarona",
+    "value": "volcarona",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/637.png"
+  },
+  {
+    "title": "Voltorb",
+    "value": "voltorb",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/100.png"
+  },
+  {
+    "title": "Wattrel",
+    "value": "wattrel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/940.png"
+  },
+  {
+    "title": "Weavile",
+    "value": "weavile",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/461.png"
+  },
+  {
+    "title": "Whiscash",
+    "value": "whiscash",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/340.png"
+  },
+  {
+    "title": "Wigglytuff",
+    "value": "wigglytuff",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/40.png"
+  },
+  {
+    "title": "Wiglett",
+    "value": "wiglett",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/960.png"
+  },
+  {
+    "title": "Wingull",
+    "value": "wingull",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/278.png"
+  },
+  {
+    "title": "Wooper",
+    "value": "wooper",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/194.png"
+  },
+  {
+    "title": "Wugtrio",
+    "value": "wugtrio",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/961.png"
+  },
+  {
+    "title": "Yungoos",
+    "value": "yungoos",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/734.png"
+  },
+  {
+    "title": "Zangoose",
+    "value": "zangoose",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/335.png"
+  },
+  {
+    "title": "Zoroark",
+    "value": "zoroark",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/571.png"
+  },
+  {
+    "title": "Zorua",
+    "value": "zorua",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/570.png"
+  },
+  {
+    "title": "Zweilous",
+    "value": "zweilous",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/634.png"
+  }
+]

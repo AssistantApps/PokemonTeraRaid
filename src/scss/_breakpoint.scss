@@ -1,0 +1,29 @@
+body {
+    @media only screen and (max-width: 1279px) {
+        //
+    }
+
+    @media screen and (max-width: 980px) {
+        //
+    }
+
+    @media only screen and (max-width: 768px) {
+        //
+    }
+
+    @media only screen and (max-width: 500px) {
+        //
+    }
+}
+
+.hidden-in-desktop {
+    @media screen and (min-width: 980px) {
+        display: none !important;
+    }
+}
+
+.hidden-in-mobile {
+    @media screen and (max-width: 980px) {
+        display: none !important;
+    }
+}

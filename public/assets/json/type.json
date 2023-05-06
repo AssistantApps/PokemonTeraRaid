@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Bug",
+    "value": "7",
+    "image": "https://www.serebii.net/pokedex-sv/teraicon/bug.png"
+  },
+  {
+    "title": "Dark",
+    "value": "17",
+    "image": "https://www.serebii.net/pokedex-sv/teraicon/dark.png"
+  },
+  {
+    "title": "Dragon",
+    "value": "16",
+    "image": "https://www.serebii.net/pokedex-sv/teraicon/dragon.png"
+  },
+  {
+    "title": "Electric",
+    "value": "13",
+    "image": "https://www.serebii.net/pokedex-sv/teraicon/electric.png"
+  },
+  {
+    "title": "Fairy",
+    "value": "18",
+    "image": "https://www.serebii.net/pokedex-sv/teraicon/fairy.png"
+  },
+  {
+    "title": "Fighting",
+    "value": "2",
+    "image": "https://www.serebii.net/pokedex-sv/teraicon/fighting.png"
+  },
+  {
+    "title": "Fire",
+    "value": "10",
+    "image": "https://www.serebii.net/pokedex-sv/teraicon/fire.png"
+  },
+  {
+    "title": "Flying",
+    "value": "3",
+    "image": "https://www.serebii.net/pokedex-sv/teraicon/flying.png"
+  },
+  {
+    "title": "Ghost",
+    "value": "8",
+    "image": "https://www.serebii.net/pokedex-sv/teraicon/ghost.png"
+  },
+  {
+    "title": "Grass",
+    "value": "12",
+    "image": "https://www.serebii.net/pokedex-sv/teraicon/grass.png"
+  },
+  {
+    "title": "Ground",
+    "value": "5",
+    "image": "https://www.serebii.net/pokedex-sv/teraicon/ground.png"
+  },
+  {
+    "title": "Ice",
+    "value": "15",
+    "image": "https://www.serebii.net/pokedex-sv/teraicon/ice.png"
+  },
+  {
+    "title": "Normal",
+    "value": "1",
+    "image": "https://www.serebii.net/pokedex-sv/teraicon/normal.png"
+  },
+  {
+    "title": "Poison",
+    "value": "4",
+    "image": "https://www.serebii.net/pokedex-sv/teraicon/poison.png"
+  },
+  {
+    "title": "Psychic",
+    "value": "14",
+    "image": "https://www.serebii.net/pokedex-sv/teraicon/psychic.png"
+  },
+  {
+    "title": "Rock",
+    "value": "6",
+    "image": "https://www.serebii.net/pokedex-sv/teraicon/rock.png"
+  },
+  {
+    "title": "Steel",
+    "value": "9",
+    "image": "https://www.serebii.net/pokedex-sv/teraicon/steel.png"
+  },
+  {
+    "title": "Water",
+    "value": "11",
+    "image": "https://www.serebii.net/pokedex-sv/teraicon/water.png"
+  }
+]

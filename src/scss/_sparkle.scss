@@ -1,0 +1,50 @@
+.sparkle {
+    background: gold;
+    height: 2em;
+    width: 2em;
+    border-radius: 0.5em;
+    border: 1px solid black;
+    transform: rotate(45deg);
+    position: relative;
+    transition: font-size 0.3s ease-in-out;
+
+    &.type {
+        font-size: 0.3em;
+        position: absolute;
+        top: -0.5em;
+        right: -0em;
+        animation: sparkle-anim 2s ease-in-out infinite;
+    }
+}
+
+.sparkle::before,
+.sparkle::after {
+    content: "";
+    position: absolute;
+    background: inherit;
+
+    top: -0.5em;
+    right: -1.5em;
+    height: 1em;
+    width: 1em;
+    border-radius: 0.3em;
+    border: 1px solid black;
+}
+
+.sparkle::after {
+    top: 1.2em;
+    right: -1.3em;
+    height: 0.6em;
+    width: 0.6em;
+    border-radius: 0.2em;
+}
+
+@keyframes sparkle-anim {
+    0%,
+    100% {
+        transform: rotate(45deg) scale(1);
+    }
+    50% {
+        transform: rotate(45deg) scale(0.75);
+    }
+}
