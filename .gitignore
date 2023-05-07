@@ -1,3 +1,4 @@
 node_modules
 dist
 /public/assets/ignore
+/github-pages-deploy-action-temp-deployment-folder
