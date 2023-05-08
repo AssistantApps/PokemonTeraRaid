@@ -1,34 +1,32 @@
-## Usage
+<div align="center">
+  
+  ## Simple Pokemon Tera Raid planner
+  _Gives you easy-to-understand information to help you take down any Tera Raid with good type matches._
+  
+  <br />  
+  
+  ![header](https://github.com/AssistantApps/.github/blob/main/img/animatedBanner.svg?raw=true) 
+  
+  <br />
+  
+  ![madeWithLove](https://github.com/AssistantApps/.github/blob/main/badges/made-with-love.svg)
+  ![gitmoji](https://github.com/AssistantApps/.github/blob/main/badges/gitmoji.svg?raw=true)<br />
+  ![Profile views](https://komarev.com/ghpvc/?username=AssistantApps&color=green&style=for-the-badge)
 
-Those templates dependencies are maintained via [pnpm](https://pnpm.io) via `pnpm up -Lri`.
+  [![Mastodon](https://img.shields.io/mastodon/follow/109315859662532146?color=%2300ff00&domain=https%3A%2F%2Fnomanssky.social&style=for-the-badge&logo=mastodon)][mastodon]
+  [![Discord](https://img.shields.io/discord/625007826913198080?style=for-the-badge&label=Chat%20on%20Discord&logo=discord)][discord]<br />
+  [![Follow on Twitter](https://img.shields.io/badge/follow-%40AssistantNMS-1d9bf0?logo=twitter&style=for-the-badge)][assistantnmsTwitter]<br />
+  
+  <br /> 
+</div>
 
-This is the reason you see a `pnpm-lock.yaml`. That being said, any package manager will work. This file can be safely be removed once you clone a template.
+<div align="center">
 
-```bash
-$ npm install # or pnpm install or yarn install
-```
+### [🔗 Website 🔗](https://pkmtera.assistantapps.com)
 
-### Learn more on the [Solid Website](https://solidjs.com) and come chat with us on our [Discord](https://discord.com/invite/solidjs)
+</div>
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm dev` or `npm start`
-
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br>
-
-### `npm run build`
-
-Builds the app for production to the `dist` folder.<br>
-It correctly bundles Solid in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-## Deployment
-
-You can deploy the `dist` folder to any static host provider (netlify, surge, now, etc.)
+[assistantAppsTwitter]: https://twitter.com/AssistantApps?ref=AssistantAppsGithub
+[discord]: https://assistantapps.com/discord?ref=AssistantAppsGithub
+[assistantnmsTwitter]: https://twitter.com/AssistantNMS?ref=AssistantAppsGithub
+[mastodon]: https://nomanssky.social/@assistantnms?ref=AssistantAppsGithub
