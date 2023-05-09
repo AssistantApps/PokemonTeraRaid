@@ -15,7 +15,7 @@ export const AppShell: Component = () => {
     return (
         <Flex maxH="100vh">
             <Sidebar />
-            <hope.main w="$full" px="3em" overflowY="auto">
+            <hope.main w="$full" px="3em" overflowY="auto" class="main">
                 <Suspense fallback={
                     <Center width="100%" height="100vh">
                         <LoadingSpinner />

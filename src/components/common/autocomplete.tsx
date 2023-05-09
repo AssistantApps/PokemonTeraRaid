@@ -1,6 +1,7 @@
 import { Flex, FormControl, FormLabel, Image, Input, Select, SelectContent, SelectIcon, SelectListbox, SelectOption, SelectOptionIndicator, SelectOptionText, SelectPlaceholder, SelectTrigger, SelectValue, Tag, TagLabel, Text } from "@hope-ui/solid";
 import { Accessor, Component, createEffect, createSignal, For, JSX, Show } from "solid-js";
 import { CustomImage } from "./image";
+import { capitalizeFirstLetter } from "../../helper/stringHelper";
 
 export interface IAutocompleteOption {
     title: string;
@@ -21,14 +22,16 @@ interface IProps {
 export const Autocomplete: Component<IProps> = (props: IProps) => {
     const [selectedOptions, setSelectedOptions] = createSignal(props.selectedValues ?? [], { equals: false });
     const [optionsToDisplay, setOptionsToDisplay] = createSignal<Array<IAutocompleteOption>>(props.options);
-    const [searchText, setSearchText] = createSignal<string>('');
+    const [searchText, setSearchText] = createSignal<string>(props.selectedValues?.[0] ?? '');
 
     createEffect(() => {
         setSelectedOptions(props.selectedValues ?? []);
     })
 
     const onSelectOption = (selectedOpts: any) => {
-        setSearchText('');
+        if (Array.isArray(selectedOpts) == false) {
+            setSearchText(capitalizeFirstLetter(selectedOpts.toString()));
+        }
         setSelectedOptions(selectedOpts);
         props.onSelect?.(selectedOpts);
     }
@@ -48,6 +51,7 @@ export const Autocomplete: Component<IProps> = (props: IProps) => {
                     <Input
                         placeholder={props.placeholder ?? ''}
                         value={searchText()}
+                        onFocus={() => setSearchText('')}
                         onInput={(event) => {
                             const searchStr = event.target.value;
                             if (searchStr.length < 1) {

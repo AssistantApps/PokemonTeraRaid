@@ -14,12 +14,14 @@ import { NetworkState } from '../constants/enum/networkState';
 import { routes } from '../constants/route';
 import { getSelectedPokemon, getSelectedTeraType } from '../services/store/sections/teraRaidState';
 import { getStateService } from '../services/store/stateService';
+import { capitalizeFirstLetter } from '../helper/stringHelper';
 
 export const HomePage: Component = () => {
     const stateRef = getStateService();
     const [selectedPkmnName, setSelectedPkmnName] = getSelectedPokemon(stateRef);
     const [selectedTeraType, setSelectedTeraType] = getSelectedTeraType(stateRef);
 
+    const [networkState, setNetworkState] = createSignal<NetworkState>(NetworkState.Loading);
     const [typesNetworkState, setTypesNetworkState] = createSignal<NetworkState>(NetworkState.Loading);
     const [types, setTypes] = createSignal<Array<IDropdownOption>>([]);
     const [pokemonNamesNetworkState, setPokemonNamesNetworkState] = createSignal<NetworkState>(NetworkState.Loading);
@@ -38,12 +40,19 @@ export const HomePage: Component = () => {
         getPokemon();
 
         setTimeout(() => {
+            const promiseArr: Array<Promise<any>> = [];
             if (selectedPkmnName() != null) {
-                getPokemonDetails(selectedPkmnName());
+                promiseArr.push(
+                    getPokemonDetails(selectedPkmnName())
+                );
             }
             if (selectedTeraType() != null) {
-                selectType(selectedTeraType())
+                promiseArr.push(
+                    selectType(selectedTeraType())
+                );
             }
+
+            Promise.all(promiseArr).then(() => setNetworkState(NetworkState.Success));
         }, 100);
     })
 
@@ -111,86 +120,92 @@ export const HomePage: Component = () => {
     return (
         <>
             <PageHeader text="Tera Raid options"></PageHeader>
-            <Container mb="10em">
-                <Card>
-                    <VStack>
-                        <Flex width="100%" justifyContent="end" class="noselect">
-                            <Box>
-                                <Center>
-                                    <Text>List all Pokemon</Text>
-                                    <Switch
-                                        size="lg"
-                                        checked={showAllPokemon()}
-                                        onChange={(event: any) => {
-                                            const newValue = event?.target?.checked ?? false
-                                            setShowAllPokemon(newValue);
-                                            getPokemon();
-                                        }}
-                                        variant="outline"
-                                    />
-                                </Center>
-                            </Box>
-                            <Spacer />
-                            <Box minWidth="300px">
-                                <Show
-                                    when={pokemonNamesNetworkState() == NetworkState.Success}
-                                    fallback={<Center><SmolLoadingSpinner /></Center>}
-                                >
-                                    <Autocomplete
-                                        placeholder="Pokemon"
-                                        options={pokemonOptionsToDisplay()}
-                                        autocompleteTile={PokemonAutocompleteTile}
-                                        onSelect={(value: string | string[]) => {
-                                            const selectedPoke = pokemonOptions().find(p => p.value == value);
-                                            if (selectedPoke == null) return;
-
-                                            getPokemonDetails(selectedPoke.value);
-                                        }}
-                                    />
-                                </Show>
-                            </Box>
-                            <Box m="0.33em" class="noselect"></Box>
-                            <Box minWidth="300px">
-                                <Show
-                                    when={typesNetworkState() == NetworkState.Success}
-                                    fallback={<Center><SmolLoadingSpinner /></Center>}
-                                >
-                                    <Dropdown
-                                        placeholder="Tera Type"
-                                        options={types()}
-                                        selectedValues={[selectedType()?.id?.toString() as any]}
-                                        onSelect={selectType}
-                                    />
-                                </Show>
-                            </Box>
-                        </Flex>
-                        <Box m="2" class="noselect">
-                            <br />
-                        </Box>
-                        <Show when={selectedPokemonNetworkState() == NetworkState.Loading}>
-                            <Center minH="25vh">
-                                <LoadingSpinner />
-                            </Center>
-                        </Show>
-                        <Show when={selectedPokemonNetworkState() == NetworkState.Success}>
-                            <Show
-                                when={selectedPokemon() != null}
-                                fallback={
-                                    <Center class="noselect">
-                                        <Heading m="1em" size="2xl">Start by selecting a pokemon and possibly a Tera type</Heading>
+            <Container mb="10em" class="tera-raid-options">
+                <Show
+                    when={networkState() == NetworkState.Success}
+                    fallback={<CenterLoading />}
+                >
+                    <Card>
+                        <VStack>
+                            <Flex width="100%" justifyContent="end" class="controls noselect">
+                                <Box class="list-all">
+                                    <Center>
+                                        <Text>List all Pokemon</Text>
+                                        <Switch
+                                            size="lg"
+                                            checked={showAllPokemon()}
+                                            onChange={(event: any) => {
+                                                const newValue = event?.target?.checked ?? false
+                                                setShowAllPokemon(newValue);
+                                                getPokemon();
+                                            }}
+                                            variant="outline"
+                                        />
                                     </Center>
-                                }
-                            >
-                                <PokemonDetails
-                                    pokemon={selectedPokemon()!}
-                                    selectedType={selectedType()}
-                                    typeDetails={typeDetails()}
-                                    showAllPokemon={showAllPokemon()}
-                                />
+                                </Box>
+                                <Spacer />
+                                <Box minWidth="300px">
+                                    <Show
+                                        when={pokemonNamesNetworkState() == NetworkState.Success}
+                                        fallback={<Center><SmolLoadingSpinner /></Center>}
+                                    >
+                                        <Autocomplete
+                                            placeholder="Pokemon"
+                                            options={pokemonOptionsToDisplay()}
+                                            autocompleteTile={PokemonAutocompleteTile}
+                                            selectedValues={selectedPokemon() != null ? [capitalizeFirstLetter(selectedPokemon()!.name)] : undefined}
+                                            onSelect={(value: string | string[]) => {
+                                                const selectedPoke = pokemonOptions().find(p => p.value == value);
+                                                if (selectedPoke == null) return;
+
+                                                getPokemonDetails(selectedPoke.value);
+                                            }}
+                                        />
+                                    </Show>
+                                </Box>
+                                <Box m="0.33em" class="noselect"></Box>
+                                <Box minWidth="300px">
+                                    <Show
+                                        when={typesNetworkState() == NetworkState.Success}
+                                        fallback={<Center><SmolLoadingSpinner /></Center>}
+                                    >
+                                        <Dropdown
+                                            placeholder="Tera Type"
+                                            options={types()}
+                                            selectedValues={[selectedType()?.id?.toString() as any]}
+                                            onSelect={selectType}
+                                        />
+                                    </Show>
+                                </Box>
+                            </Flex>
+                            <Box m="2" class="noselect">
+                                <br />
+                            </Box>
+                            <Show when={selectedPokemonNetworkState() == NetworkState.Loading}>
+                                <Center minH="25vh">
+                                    <LoadingSpinner />
+                                </Center>
                             </Show>
-                        </Show>
-                    </VStack>
-                </Card>
+                            <Show when={selectedPokemonNetworkState() == NetworkState.Success}>
+                                <Show
+                                    when={selectedPokemon() != null}
+                                    fallback={
+                                        <Center class="noselect">
+                                            <Heading m="1em" size="2xl" textAlign="center">Start by selecting a pokemon and possibly a Tera type</Heading>
+                                        </Center>
+                                    }
+                                >
+                                    <PokemonDetails
+                                        pokemon={selectedPokemon()!}
+                                        selectedType={selectedType()}
+                                        typeDetails={typeDetails()}
+                                        showAllPokemon={showAllPokemon()}
+                                    />
+                                </Show>
+                            </Show>
+                        </VStack>
+                    </Card>
+                </Show>
             </Container>
         </>
     );

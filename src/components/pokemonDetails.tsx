@@ -1,13 +1,14 @@
 import { Box, Center, Divider, Flex, Heading, SimpleGrid, Text, VStack } from "@hope-ui/solid";
 import { Pokemon, Type } from "pokenode-ts";
 import { Component, For, Show, createEffect, createSignal } from "solid-js";
+
 import { IMoveCard } from "../contracts/moveCard";
 import { getWhatNotToBring, getWhatToBring } from "../helper/moveHelper";
 import { capitalizeFirstLetter } from "../helper/stringHelper";
 import { CustomImage } from "./common/image";
 import { PokemonBestTypeSummary } from "./pokemonBestTypeSummary";
 import { PokemonDetailMoveSummary } from "./pokemonDetailMoveSummary";
-import { getTypeImg } from "../helper/typeHelper";
+import { getTypeImg } from "../helper/externalImgHelper";
 
 interface IProps {
     pokemon: Pokemon;
@@ -56,14 +57,14 @@ export const PokemonDetails: Component<IProps> = (props: IProps) => {
                         <CustomImage
                             src={imageOptions.filter(img => img != null)[0] ?? ''}
                             class="noselect"
-                            height="200px"
+                            maxHeight="200px"
                         />
                         <Heading size="2xl">{capitalizeFirstLetter(props.pokemon.name)}</Heading>
                         <Box m="0.25em"></Box>
-                        <Center width="100%" gap="0.5em" mb="1em" class="noselect">
+                        <Center width="100%" gap="0.5em" mb="1em" class="types noselect">
                             <For each={props.pokemon.types}>
                                 {pType => (
-                                    <Box width="50%">
+                                    <Box width="50%" class="type-container">
                                         <Center class={pType.type.name} p="0.5em" borderRadius="0.5em" borderWidth="2px">
                                             {capitalizeFirstLetter(pType.type.name)}
                                         </Center>
@@ -78,7 +79,7 @@ export const PokemonDetails: Component<IProps> = (props: IProps) => {
                                 />
                             </Show>
                         </Center>
-                        <SimpleGrid gap="0.5em" minChildWidth="100px" width="100%">
+                        <SimpleGrid gap="0.5em" minChildWidth="100px" width="100%" class="base-stat">
                             <For each={props.pokemon.stats}>
                                 {stat => (
                                     <Box >

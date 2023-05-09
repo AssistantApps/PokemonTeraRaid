@@ -8,6 +8,7 @@ import { Card } from "./common/card";
 import { OpenInNewIcon } from "./common/icon/openInNewIcon";
 import { CustomImage } from "./common/image";
 import { LoadingSpinner } from "./core/loading";
+import { getImgFromPokeApi } from "../helper/externalImgHelper";
 
 interface IProps {
     attack: Array<IMoveCard>;
@@ -128,6 +129,9 @@ export const PokemonBestTypeSummary: Component<IProps> = (props: IProps) => {
 
     return (
         <Box position="relative" width="100%">
+            <Center>
+                <Heading size="2xl" mb="1em" class="noselect">Suggested Pokemon</Heading>
+            </Center>
             <Show when={networkState() == NetworkState.Error}>
                 <Center>
                     <Heading m="1em" size="3xl" class="noselect">Something went wrong</Heading>
@@ -146,25 +150,22 @@ export const PokemonBestTypeSummary: Component<IProps> = (props: IProps) => {
                     </Center>
                 }
             >
-                <Center>
-                    <Heading size="2xl" mb="1em" class="noselect">Suggested Pokemon</Heading>
-                </Center>
-                <SimpleGrid gap="0.5em" columns={5} width="100%">
+                <SimpleGrid gap="0.5em" columns={{ "@initial": 2, "@sm": 3, "@md": 4, "@lg": 5 }} width="100%">
                     <For each={search()}>
                         {pokemon => (
-                            <Card width="100%">
+                            <Card width="100%" class="suggested-pokemon-card">
                                 <Center flexDirection="column" position="relative">
                                     <CustomImage
-                                        src={`https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/${pokemon.id}.png`}
+                                        src={getImgFromPokeApi(pokemon.id)}
+                                        maxHeight="100px"
                                         class="noselect"
-                                        height="100px"
                                     />
                                     <Heading size="2xl">{capitalizeFirstLetter(pokemon.name)}</Heading>
                                     <Box m="0.25em" class="noselect"></Box>
-                                    <Center width="100%" gap="0.5em" mb="1em" class="noselect">
+                                    <Center width="100%" gap="0.5em" mb="1em" class="types noselect">
                                         <For each={pokemon?.types ?? []}>
                                             {pType => (
-                                                <Box width="50%">
+                                                <Box width="50%" class="type-container">
                                                     <Center class={pType} p="0.5em" borderRadius="0.5em" borderWidth="2px">
                                                         {capitalizeFirstLetter(pType)}
                                                     </Center>
@@ -172,7 +173,7 @@ export const PokemonBestTypeSummary: Component<IProps> = (props: IProps) => {
                                             )}
                                         </For>
                                     </Center>
-                                    <Box position="absolute" top="0.125em" right="0.25em" class="noselect">
+                                    <Box position="absolute" top="-0.5em" right="-0.25em" class="noselect">
                                         <a href={`https://bulbapedia.bulbagarden.net/wiki/${pokemon.name}`} title="Link to Bulbapedia" target="_blank" rel="noopener noreferrer">
                                             <OpenInNewIcon />
                                         </a>

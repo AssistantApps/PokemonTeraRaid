@@ -16,7 +16,7 @@ export const PokemonDetailMoveSummary: Component<IProps> = (props: IProps) => {
     const renderCards = (cards: Array<IMoveCard>, title: string, valueFunc: (value: number) => string) => {
         return (
             <Show when={cards.length > 0}>
-                <Box width="100%" px="1em" class="noselect">
+                <Box width="100%" px="1em" class="move-list noselect">
                     <Heading mb="0.5em" textAlign="center">{title}</Heading>
                     <For each={cards}>
                         {(moveCard, index) => (
@@ -25,7 +25,7 @@ export const PokemonDetailMoveSummary: Component<IProps> = (props: IProps) => {
                                 <Flex flexWrap="wrap" gap="0.5em">
                                     <For each={moveCard.types}>
                                         {pType => (
-                                            <Box width="120px" position="relative">
+                                            <Box maxWidth="30%" width="calc(50% - 0.5em)" position="relative" class="move-type">
                                                 <Show when={index() == 0}>
                                                     <Box class="sparkle type"></Box>
                                                 </Show>
