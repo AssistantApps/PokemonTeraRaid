@@ -60,6 +60,7 @@ export const Sidebar: Component = () => {
                         <SidebarNavLink href={externalUrl.assistantapps} target="_blank" rel="noopener noreferrer">AssistantApps Homepage <OpenInNewIcon /></SidebarNavLink>
                         <SidebarNavLink href={externalUrl.assistantappsDiscord} target="_blank" rel="noopener noreferrer">Discord <OpenInNewIcon /></SidebarNavLink>
                         <SidebarNavLink href={externalUrl.assistantappsMastodon} target="_blank" rel="noopener noreferrer">Mastodon <OpenInNewIcon /></SidebarNavLink>
+                        <SidebarNavLink href={externalUrl.githubRepo} target="_blank" rel="noopener noreferrer">Github Repository <OpenInNewIcon /></SidebarNavLink>
                     </VStack>
                     <Box m={20} />
                     <SidebarTitle>Data from</SidebarTitle>
